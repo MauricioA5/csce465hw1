@@ -1,0 +1,5 @@
+TIME	KIND	STATUS	AGENT	RUN	ACTION
+2026-09-15T18:35:23.699Z	agent_run	succeeded	main	63423c74-260d-4d3…	agent.run.finished
+2026-09-15T18:35:21.422Z	tool_action	succeeded	main	63423c74-260d-4d3…	tool.action.finished:exec
+2026-09-15T18:35:21.051Z	tool_action	started	main	63423c74-260d-4d3…	tool.action.started:exec
+2026-09-15T18:35:18.126Z	agent_run	started	main	63423c74-260d-4d3…	agent.run.started
